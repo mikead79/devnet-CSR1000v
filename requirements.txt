@@ -5,7 +5,7 @@ chardet==3.0.4
 cryptography==2.8
 future==0.18.2
 idna==2.9
-lxml==4.5.0
+lxml==4.9.1
 ncclient==0.6.7
 netmiko==3.0.0
 paramiko==2.7.1
